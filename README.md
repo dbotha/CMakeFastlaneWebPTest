@@ -1,3 +1,6 @@
+# About
+Example project for [this StackOverflow question](https://stackoverflow.com/questions/74879662/how-to-use-fastlane-with-a-cmake-generated-xcode-project-with-dependency-on-webp)
+
 # Building the project
 1. Fetch submodule dependencies `git submodule update --init --recursive`
 2. `cmake -G Xcode -DCMAKE_TOOLCHAIN_FILE=third_party/ios-cmake/ios.toolchain.cmake -DPLATFORM=OS64 -DDEPLOYMENT_TARGET=15.0 -DENABLE_BITCODE=0 -S . -B cmake-build-release`

@@ -1,5 +1,5 @@
 app_identifier("com.dbotha.CMakeFastlaneWebpTest") # The bundle identifier of your app
-apple_id("deon@dbotha.com") # Your Apple Developer Portal username
+apple_id("REPLACE_WITH_PORTAL_USERNAME") # Your Apple Developer Portal username
 
 itc_team_id("REPLACE_WITH_CONNTECT_TEAM_ID") # App Store Connect Team ID
 team_id("REPLACE_WITH_DEVELOPER_PORTAL_TEAM_ID") # Developer Portal Team ID

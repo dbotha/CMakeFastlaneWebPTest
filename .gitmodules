@@ -1,0 +1,6 @@
+[submodule "third_party/libwebp"]
+	path = third_party/libwebp
+	url = https://chromium.googlesource.com/webm/libwebp
+[submodule "third_party/ios-cmake"]
+	path = third_party/ios-cmake
+	url = https://github.com/leetal/ios-cmake.git
